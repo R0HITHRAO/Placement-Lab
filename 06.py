@@ -1,3 +1,3 @@
-def food_name(name:"Biryani"):
-    return ("How many packets of food do you want? " ,name)
-food_name()
+def sport_name(name:"Running race, Cycling race, Football match, Cricket match,kabbadi match"):
+    return ("Which sport do you like? " ,name)
+sport_name()
