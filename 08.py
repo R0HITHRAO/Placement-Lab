@@ -1,0 +1,1 @@
+def student.details(Name,Age,Dept:"CS",)
